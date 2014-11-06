@@ -47,6 +47,7 @@ class MyApp:
 		global drawpad
 		global drawpadwidth
 		global drawpadheight
+		drawpad.move(oval,-20,0)
 	
 	# Add the button2Click method
 		
